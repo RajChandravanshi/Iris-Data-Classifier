@@ -113,34 +113,3 @@ Each sample contains the following features:
         <td>96.67%</td>
     </tr>
 </table>
-
-<h2>🛠️ Installation & Usage</h2>
-<p>To run this project, follow these steps:</p>
-
-<h3>📥 Install Dependencies</h3>
-<pre>
-pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
-</pre>
-
-<h3>🚀 Run the Script</h3>
-<pre>
-python iris_classification.py
-</pre>
-
-<h2>🤝 Contributing</h2>
-<p>Contributions, issues, and feature requests are welcome! Feel free to fork this repository and submit pull requests.</p>
-
-<h2>📜 License</h2>
-<p>This project is licensed under the <strong>MIT License</strong>.</p>
-
-<h2>💡 Acknowledgements</h2>
-<ul>
-    <li>Scikit-learn for machine learning models</li>
-    <li>TensorFlow/Keras for ANN implementation</li>
-    <li>Matplotlib & Seaborn for visualizations</li>
-</ul>
-
-<p align="center">🚀 Happy Coding! 🚀</p>
-
-</body>
-</html>
