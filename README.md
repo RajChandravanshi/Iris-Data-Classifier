@@ -102,15 +102,15 @@ Each sample contains the following features:
     </tr>
     <tr>
         <td>AdaBoost (Sklearn)</td>
-        <td>97%</td>
+        <td>93.33%</td>
     </tr>
     <tr>
         <td>Custom AdaBoost</td>
-        <td>96.67%</td>
+        <td>93.33%</td>
     </tr>
     <tr>
         <td>ANN Model</td>
-        <td>98%</td>
+        <td>96.67%</td>
     </tr>
 </table>
 
